@@ -47,16 +47,16 @@ The 6 dimensions:
    *e.g., broad = "HR managers" → demographic = "HR managers at remote-first companies with 50–200 employees"*
 
 3. **By Experience Level** — how sophisticated, experienced, or advanced they are as a user of this type of product  
-   *e.g., "first-time users of onboarding software switching from spreadsheets" vs. "power users managing multi-country compliance workflows"*
+   *e.g., "HR managers" → experience level = "HR managers who are power users of tools helping them managing multi-country compliance workflows"*
 
 4. **By Budget / Price Point** — their purchasing context, budget authority, or willingness to pay  
-   *e.g., "individual contributors with no budget authority" vs. "VPs who own a $50K+ HR tech stack budget"*
+   *e.g., "HR managers" → budget / price point ="HR managers who own a $50K+ HR tech stack budget"*
 
 5. **By Problem** — the specific pain point, frustration, or job-to-be-done that would drive them to this product  
-   *e.g., "HR managers drowning in new-hire paperwork during hypergrowth" vs. "HR managers who've had compliance failures due to missed onboarding steps"*
+   *e.g., "HR managers" → problem = "HR managers who've had compliance failures due to missed onboarding steps"*
 
 6. **By Use Case** — the specific workflow, scenario, or context in which they'd actually use the product  
-   *e.g., "onboarding contractors who need time-limited access" vs. "onboarding globally distributed teams across multiple time zones"*
+   *e.g., "HR managers" → use case = "HR managers onboarding globally distributed teams across multiple time zones"*
 
 **Format for Upgrade #1:**
 
